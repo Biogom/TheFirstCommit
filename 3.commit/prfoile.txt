@@ -1,2 +1,2 @@
-email :
-gitID :
+email : leehetrapOMG@samsung.com
+gitID : LTO
